@@ -1,0 +1,14 @@
+img{
+    width: 20vh;
+    margin-left: 25px;
+}
+h1{
+    color: rgb(167, 37, 37);
+}
+a:hover{
+    color: rgb(33, 112, 86);
+    font-size: 36px;
+}
+a{
+    font-size: 20px;
+}
